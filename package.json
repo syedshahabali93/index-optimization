@@ -1,0 +1,14 @@
+{
+  "name": "index-optimization",
+  "version": "1.0.0",
+  "description": "This repository focuses on index adding effect on performance.",
+  "main": "query_unoptimized_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
